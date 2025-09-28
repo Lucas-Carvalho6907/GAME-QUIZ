@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Next.js
+.next/
+out/
+
+# Build / Tailwind
+dist/
+
+# Env files
+.env
+
+# VSCode
+.vscode/
